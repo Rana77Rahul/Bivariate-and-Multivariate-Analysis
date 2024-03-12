@@ -1,2 +1,2 @@
-# Bivariate-and-Multivariate-Analysis
-This repository provides a comprehensive set of tools and techniques for exploring the relationships between variables in datasets through bivariate and multivariate analysis. Understanding the interdependencies among variables is crucial for gaining insights into complex datasets and making informed decisions.
+# Bivariate_and_Multivariate_Analysis
+Bivariate analysis involves the study of the relationship between two variables, while multivariate analysis explores relationships among three or more variables simultaneously.
